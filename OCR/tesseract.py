@@ -2,7 +2,7 @@
 import cv2
 import pytesseract
 
-#you need to install pytesseract app on your device , windowsInstaller.exe for same is given in this project
+#you need to install pytesseract app on your device , windows .exe link is https://github.com/UB-Mannheim/tesseract/wiki
 #install pytesseract and note down where its installed
 #in my case its installed in C:\Program Files\Tesseract-OCR\tesseract.exe
 
